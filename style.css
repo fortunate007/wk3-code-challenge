@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+}
+#sidebar {
+    width: 200px;
+    border-right: 1px solid #ccc;
+}
+#main {
+    padding: 20px;
+}
+.film.item {
+    cursor: pointer;
+    padding: 10px;
+}
+.sold-out {
+    color: red;
+}
+button {
+    margin-top: 20px;
+}
